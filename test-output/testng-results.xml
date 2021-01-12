@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="28" passed="28">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching the browser]]>
+    </line>
+    <line>
+      <![CDATA[Verification of url]]>
+    </line>
+    <line>
+      <![CDATA[Finding ModalAlert button and closing]]>
+    </line>
+    <line>
+      <![CDATA[Hovering to Electronics>>Mi]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the label Latest from MI : Redmi Go]]>
+    </line>
+    <line>
+      <![CDATA[sliding price slider]]>
+    </line>
+    <line>
+      <![CDATA[Selecting third value from the drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting third value from the drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the first product from the search]]>
+    </line>
+    <line>
+      <![CDATA[Switching to a new window]]>
+    </line>
+    <line>
+      <![CDATA[Finding the price and verification of price for greater than or equal to zero condition]]>
+    </line>
+    <line>
+      <![CDATA[Hovering and selecting thumbnail that displays video]]>
+    </line>
+    <line>
+      <![CDATA[Entering pincode]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on view details and closing it.]]>
+    </line>
+    <line>
+      <![CDATA[Adding the product to the cart]]>
+    </line>
+    <line>
+      <![CDATA[Launching the browser]]>
+    </line>
+    <line>
+      <![CDATA[Verification of url]]>
+    </line>
+    <line>
+      <![CDATA[Finding ModalAlert button and closing]]>
+    </line>
+    <line>
+      <![CDATA[Hovering to Electronics>>Mi]]>
+    </line>
+    <line>
+      <![CDATA[Verifying the label Latest from MI : Redmi Go]]>
+    </line>
+    <line>
+      <![CDATA[sliding price slider]]>
+    </line>
+    <line>
+      <![CDATA[Selecting third value from the drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting third value from the drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the first product from the search]]>
+    </line>
+    <line>
+      <![CDATA[Switching to a new window]]>
+    </line>
+    <line>
+      <![CDATA[Finding the price and verification of price for greater than or equal to zero condition]]>
+    </line>
+    <line>
+      <![CDATA[Hovering and selecting thumbnail that displays video]]>
+    </line>
+    <line>
+      <![CDATA[Entering pincode]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on view details and closing it.]]>
+    </line>
+    <line>
+      <![CDATA[Adding the product to the cart]]>
+    </line>
+    <line>
+      <![CDATA[Closing the driver]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55792" started-at="2021-01-12T15:17:53 CET" finished-at="2021-01-12T15:18:48 CET">
+    <groups>
+      <group name="Sanity">
+        <method signature="FlipkartTest.addToCartVerification()[pri:13, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="addToCartVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.hoverMenuElectronicsMiVerification()[pri:2, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="hoverMenuElectronicsMiVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.keyboardEventVerification()[pri:11, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="keyboardEventVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.searchVerification()[pri:6, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="searchVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.selectFirstElementVerification()[pri:7, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="selectFirstElementVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.switchToNewWindowVerification()[pri:8, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="switchToNewWindowVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.urlVerification()[pri:0, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="urlVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.addToCartVerification()[pri:13, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="addToCartVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.hoverMenuElectronicsMiVerification()[pri:2, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="hoverMenuElectronicsMiVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.keyboardEventVerification()[pri:11, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="keyboardEventVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.searchVerification()[pri:6, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="searchVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.selectFirstElementVerification()[pri:7, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="selectFirstElementVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.switchToNewWindowVerification()[pri:8, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="switchToNewWindowVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.urlVerification()[pri:0, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="urlVerification" class="com.flipkart.testng.FlipkartTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="FlipkartTest.addToCartVerification()[pri:13, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="addToCartVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.dropdownSelectionVerification()[pri:5, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="dropdownSelectionVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.hoverMenuElectronicsMiVerification()[pri:2, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="hoverMenuElectronicsMiVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.keyboardEventVerification()[pri:11, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="keyboardEventVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.labelVerification()[pri:3, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="labelVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.modalAlertButtonVerification()[pri:1, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="modalAlertButtonVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.priceVerification()[pri:9, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="priceVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.searchVerification()[pri:6, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="searchVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.selectFirstElementVerification()[pri:7, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="selectFirstElementVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.sliderVerification()[pri:4, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="sliderVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.switchToNewWindowVerification()[pri:8, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="switchToNewWindowVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.urlVerification()[pri:0, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="urlVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.videoThumbnailVerification()[pri:10, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="videoThumbnailVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.viewDetailsVerification()[pri:12, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="viewDetailsVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.addToCartVerification()[pri:13, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="addToCartVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.dropdownSelectionVerification()[pri:5, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="dropdownSelectionVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.hoverMenuElectronicsMiVerification()[pri:2, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="hoverMenuElectronicsMiVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.keyboardEventVerification()[pri:11, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="keyboardEventVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.labelVerification()[pri:3, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="labelVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.modalAlertButtonVerification()[pri:1, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="modalAlertButtonVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.priceVerification()[pri:9, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="priceVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.searchVerification()[pri:6, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="searchVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.selectFirstElementVerification()[pri:7, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="selectFirstElementVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.sliderVerification()[pri:4, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="sliderVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.switchToNewWindowVerification()[pri:8, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="switchToNewWindowVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.urlVerification()[pri:0, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="urlVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.videoThumbnailVerification()[pri:10, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="videoThumbnailVerification" class="com.flipkart.testng.FlipkartTest"/>
+        <method signature="FlipkartTest.viewDetailsVerification()[pri:12, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="viewDetailsVerification" class="com.flipkart.testng.FlipkartTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="ChromeTest" duration-ms="19251" started-at="2021-01-12T15:17:53 CET" finished-at="2021-01-12T15:18:12 CET">
+      <class name="com.flipkart.testng.FlipkartTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="setup" is-config="true" duration-ms="3669" started-at="2021-01-12T15:17:53 CET" finished-at="2021-01-12T15:17:56 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[local]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="urlVerification()[pri:0, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="urlVerification" duration-ms="3334" started-at="2021-01-12T15:17:56 CET" finished-at="2021-01-12T15:18:00 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the browser]]>
+            </line>
+            <line>
+              <![CDATA[Verification of url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- urlVerification -->
+        <test-method status="PASS" signature="modalAlertButtonVerification()[pri:1, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="modalAlertButtonVerification" duration-ms="75" started-at="2021-01-12T15:18:00 CET" finished-at="2021-01-12T15:18:00 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Finding ModalAlert button and closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modalAlertButtonVerification -->
+        <test-method status="PASS" signature="hoverMenuElectronicsMiVerification()[pri:2, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="hoverMenuElectronicsMiVerification" duration-ms="1818" started-at="2021-01-12T15:18:00 CET" finished-at="2021-01-12T15:18:01 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Hovering to Electronics>>Mi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hoverMenuElectronicsMiVerification -->
+        <test-method status="PASS" signature="labelVerification()[pri:3, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="labelVerification" duration-ms="33" started-at="2021-01-12T15:18:01 CET" finished-at="2021-01-12T15:18:01 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying the label Latest from MI : Redmi Go]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- labelVerification -->
+        <test-method status="PASS" signature="sliderVerification()[pri:4, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="sliderVerification" duration-ms="1493" started-at="2021-01-12T15:18:01 CET" finished-at="2021-01-12T15:18:03 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[sliding price slider]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sliderVerification -->
+        <test-method status="PASS" signature="dropdownSelectionVerification()[pri:5, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="dropdownSelectionVerification" duration-ms="1137" started-at="2021-01-12T15:18:03 CET" finished-at="2021-01-12T15:18:04 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Selecting third value from the drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- dropdownSelectionVerification -->
+        <test-method status="PASS" signature="searchVerification()[pri:6, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="searchVerification" duration-ms="93" started-at="2021-01-12T15:18:04 CET" finished-at="2021-01-12T15:18:04 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Selecting third value from the drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchVerification -->
+        <test-method status="PASS" signature="selectFirstElementVerification()[pri:7, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="selectFirstElementVerification" duration-ms="595" started-at="2021-01-12T15:18:04 CET" finished-at="2021-01-12T15:18:05 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Selecting the first product from the search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectFirstElementVerification -->
+        <test-method status="PASS" signature="switchToNewWindowVerification()[pri:8, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="switchToNewWindowVerification" duration-ms="35" started-at="2021-01-12T15:18:05 CET" finished-at="2021-01-12T15:18:05 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Switching to a new window]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- switchToNewWindowVerification -->
+        <test-method status="PASS" signature="priceVerification()[pri:9, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="priceVerification" duration-ms="2084" started-at="2021-01-12T15:18:05 CET" finished-at="2021-01-12T15:18:07 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Finding the price and verification of price for greater than or equal to zero condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- priceVerification -->
+        <test-method status="PASS" signature="videoThumbnailVerification()[pri:10, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="videoThumbnailVerification" duration-ms="1192" started-at="2021-01-12T15:18:07 CET" finished-at="2021-01-12T15:18:08 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Hovering and selecting thumbnail that displays video]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- videoThumbnailVerification -->
+        <test-method status="PASS" signature="keyboardEventVerification()[pri:11, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="keyboardEventVerification" duration-ms="2098" started-at="2021-01-12T15:18:08 CET" finished-at="2021-01-12T15:18:10 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering pincode]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- keyboardEventVerification -->
+        <test-method status="PASS" signature="viewDetailsVerification()[pri:12, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="viewDetailsVerification" duration-ms="1342" started-at="2021-01-12T15:18:10 CET" finished-at="2021-01-12T15:18:12 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on view details and closing it.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- viewDetailsVerification -->
+        <test-method status="PASS" signature="addToCartVerification()[pri:13, instance:com.flipkart.testng.FlipkartTest@57536d79]" name="addToCartVerification" duration-ms="216" started-at="2021-01-12T15:18:12 CET" finished-at="2021-01-12T15:18:12 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Adding the product to the cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCartVerification -->
+      </class> <!-- com.flipkart.testng.FlipkartTest -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="36520" started-at="2021-01-12T15:18:12 CET" finished-at="2021-01-12T15:18:48 CET">
+      <class name="com.flipkart.testng.FlipkartTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="setup" is-config="true" duration-ms="4036" started-at="2021-01-12T15:18:12 CET" finished-at="2021-01-12T15:18:16 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[external]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="urlVerification()[pri:0, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="urlVerification" duration-ms="6034" started-at="2021-01-12T15:18:16 CET" finished-at="2021-01-12T15:18:22 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching the browser]]>
+            </line>
+            <line>
+              <![CDATA[Verification of url]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- urlVerification -->
+        <test-method status="PASS" signature="modalAlertButtonVerification()[pri:1, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="modalAlertButtonVerification" duration-ms="332" started-at="2021-01-12T15:18:22 CET" finished-at="2021-01-12T15:18:22 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Finding ModalAlert button and closing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- modalAlertButtonVerification -->
+        <test-method status="PASS" signature="hoverMenuElectronicsMiVerification()[pri:2, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="hoverMenuElectronicsMiVerification" duration-ms="5631" started-at="2021-01-12T15:18:22 CET" finished-at="2021-01-12T15:18:28 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Hovering to Electronics>>Mi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- hoverMenuElectronicsMiVerification -->
+        <test-method status="PASS" signature="labelVerification()[pri:3, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="labelVerification" duration-ms="56" started-at="2021-01-12T15:18:28 CET" finished-at="2021-01-12T15:18:28 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying the label Latest from MI : Redmi Go]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- labelVerification -->
+        <test-method status="PASS" signature="sliderVerification()[pri:4, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="sliderVerification" duration-ms="1579" started-at="2021-01-12T15:18:28 CET" finished-at="2021-01-12T15:18:29 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[sliding price slider]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sliderVerification -->
+        <test-method status="PASS" signature="dropdownSelectionVerification()[pri:5, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="dropdownSelectionVerification" duration-ms="1596" started-at="2021-01-12T15:18:29 CET" finished-at="2021-01-12T15:18:31 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Selecting third value from the drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- dropdownSelectionVerification -->
+        <test-method status="PASS" signature="searchVerification()[pri:6, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="searchVerification" duration-ms="306" started-at="2021-01-12T15:18:31 CET" finished-at="2021-01-12T15:18:31 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Selecting third value from the drop down]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchVerification -->
+        <test-method status="PASS" signature="selectFirstElementVerification()[pri:7, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="selectFirstElementVerification" duration-ms="122" started-at="2021-01-12T15:18:31 CET" finished-at="2021-01-12T15:18:32 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Selecting the first product from the search]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- selectFirstElementVerification -->
+        <test-method status="PASS" signature="switchToNewWindowVerification()[pri:8, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="switchToNewWindowVerification" duration-ms="295" started-at="2021-01-12T15:18:32 CET" finished-at="2021-01-12T15:18:32 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Switching to a new window]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- switchToNewWindowVerification -->
+        <test-method status="PASS" signature="priceVerification()[pri:9, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="priceVerification" duration-ms="1146" started-at="2021-01-12T15:18:32 CET" finished-at="2021-01-12T15:18:33 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Finding the price and verification of price for greater than or equal to zero condition]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- priceVerification -->
+        <test-method status="PASS" signature="videoThumbnailVerification()[pri:10, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="videoThumbnailVerification" duration-ms="10110" started-at="2021-01-12T15:18:33 CET" finished-at="2021-01-12T15:18:43 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Hovering and selecting thumbnail that displays video]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- videoThumbnailVerification -->
+        <test-method status="PASS" signature="keyboardEventVerification()[pri:11, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="keyboardEventVerification" duration-ms="3231" started-at="2021-01-12T15:18:43 CET" finished-at="2021-01-12T15:18:46 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering pincode]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- keyboardEventVerification -->
+        <test-method status="PASS" signature="viewDetailsVerification()[pri:12, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="viewDetailsVerification" duration-ms="1750" started-at="2021-01-12T15:18:46 CET" finished-at="2021-01-12T15:18:48 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on view details and closing it.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- viewDetailsVerification -->
+        <test-method status="PASS" signature="addToCartVerification()[pri:13, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="addToCartVerification" duration-ms="284" started-at="2021-01-12T15:18:48 CET" finished-at="2021-01-12T15:18:48 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Adding the product to the cart]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addToCartVerification -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.flipkart.testng.FlipkartTest@3cef309d]" name="closeBrowser" is-config="true" duration-ms="623" started-at="2021-01-12T15:18:48 CET" finished-at="2021-01-12T15:18:49 CET">
+          <reporter-output>
+            <line>
+              <![CDATA[Closing the driver]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.flipkart.testng.FlipkartTest -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>

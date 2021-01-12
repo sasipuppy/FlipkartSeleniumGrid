@@ -1,0 +1,248 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>14/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Jan 12 14:22:55 CET 2021</td>
+</tr>
+<tr><td>Total time:</td><td>19 seconds (19219 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>Regression </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.addToCartVerification()'><b>addToCartVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-988850650" onClick='toggleBox("Output-988850650", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-988850650" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-988850650">
+Adding the product to the cart<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.dropdownSelectionVerification()'><b>dropdownSelectionVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-1153302647" onClick='toggleBox("Output-1153302647", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1153302647" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1153302647">
+Selecting third value from the drop down<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.hoverMenuElectronicsMiVerification()'><b>hoverMenuElectronicsMiVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-2037764568" onClick='toggleBox("Output-2037764568", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2037764568" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2037764568">
+Hovering to Electronics>>Mi<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.keyboardEventVerification()'><b>keyboardEventVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-1356840024" onClick='toggleBox("Output-1356840024", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1356840024" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1356840024">
+Entering pincode<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.labelVerification()'><b>labelVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-1807015220" onClick='toggleBox("Output-1807015220", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1807015220" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1807015220">
+Verifying the label Latest from MI : Redmi Go<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.modalAlertButtonVerification()'><b>modalAlertButtonVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-983595261" onClick='toggleBox("Output-983595261", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-983595261" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-983595261">
+Finding ModalAlert button and closing<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.priceVerification()'><b>priceVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-659590237" onClick='toggleBox("Output-659590237", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-659590237" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-659590237">
+Finding the price and verification of price for greater than or equal to zero condition<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.searchVerification()'><b>searchVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-1178587240" onClick='toggleBox("Output-1178587240", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1178587240" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1178587240">
+Selecting third value from the drop down<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.selectFirstElementVerification()'><b>selectFirstElementVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-171421438" onClick='toggleBox("Output-171421438", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-171421438" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-171421438">
+Selecting the first product from the search<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.sliderVerification()'><b>sliderVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-1921242091" onClick='toggleBox("Output-1921242091", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1921242091" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1921242091">
+sliding price slider<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.switchToNewWindowVerification()'><b>switchToNewWindowVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-88397182" onClick='toggleBox("Output-88397182", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-88397182" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-88397182">
+Switching to a new window<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.urlVerification()'><b>urlVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-944140566" onClick='toggleBox("Output-944140566", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-944140566" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-944140566">
+Launching the browser<br/>
+Verification of url<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.videoThumbnailVerification()'><b>videoThumbnailVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-302366050" onClick='toggleBox("Output-302366050", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-302366050" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-302366050">
+Hovering and selecting thumbnail that displays video<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+<tr>
+<td title='com.flipkart.testng.FlipkartTest.viewDetailsVerification()'><b>viewDetailsVerification</b><br>Test class: com.flipkart.testng.FlipkartTest<br/>
+<a href="#Output-813823788" onClick='toggleBox("Output-813823788", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-813823788" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-813823788">
+Clicking on view details and closing it.<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.flipkart.testng.FlipkartTest@2b2948e2</td></tr>
+</table><p>
+</body>
+</html>
