@@ -12,8 +12,6 @@ cd C:\Users\venky\Desktop\Java Tools\selenium
 
 java -jar selenium-server-standalone-3.141.59.jar -role hub
 
-java -Dwebdriver.gecko.driver="C:\Users\venky\Desktop\Java Tools\WebDriver\geckodriver.exe" -jar selenium-server-standalone-3.141.59.jar -role node -hub http://192.168.1.80:4444/grid/register/
-
 java -Dwebdriver.chrome.driver="C:\Users\venky\Desktop\Java Tools\WebDriver\Driver\chromedriver.exe" -jar selenium-server-standalone-3.141.59.jar -role node -hub http://192.168.1.80:4444/grid/register/
 
 http://localhost:4444/grid/console
